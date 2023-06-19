@@ -3,6 +3,7 @@ sidebar_position: 1
 slug: /
 ---
 
+Here is what Vicky Du writes.
 # Introduction
 
 Motion Canvas consists of two main components:
